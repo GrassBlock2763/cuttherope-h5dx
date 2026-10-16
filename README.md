@@ -5,12 +5,8 @@
 </p>
 
 > [!NOTE]
-> This project is deprecated.
-> 
-> It is superseded by [Cut the Rope: DX](https://github.com/yell0wsuit/cuttherope-dx),
-> which now runs in the browser via .NET WebAssembly and SkiaSharp
-> ([PR #310](https://github.com/yell0wsuit/cuttherope-dx/pull/310)).
-> (grass block here, I don't give a shi)
+> This is an archive of Cut the Rope: H5DX from 10/16/2026.
+> If yell0wsuit would like me to remove this repo, please email me at [minecraftxander04@gmail.com](mailto:minecraftxander04@gmail.com) or DM me on Discord (@grassblock2763).
 
 ## About
 
