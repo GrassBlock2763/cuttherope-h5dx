@@ -10,6 +10,7 @@
 > It is superseded by [Cut the Rope: DX](https://github.com/yell0wsuit/cuttherope-dx),
 > which now runs in the browser via .NET WebAssembly and SkiaSharp
 > ([PR #310](https://github.com/yell0wsuit/cuttherope-dx/pull/310)).
+> (grass block here, I don't give a shi)
 
 ## About
 
