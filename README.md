@@ -6,7 +6,7 @@
 
 > [!NOTE]
 > This is an archive of Cut the Rope: H5DX from 10/16/2026.
-> If yell0wsuit would like me to remove this repo, please email me at [minecraftxander04@gmail.com](mailto:minecraftxander04@gmail.com) or DM me on Discord (@grassblock2763).
+> If yell0wsuit or ZeptoLab would like me to remove this repo, please email me at [minecraftxander04@gmail.com](mailto:minecraftxander04@gmail.com) or DM me on Discord (@grassblock2763).
 >
 > Check out the original repository: [yell0wsuit/cuttherope-h5dx](https://github.com/yell0wsuit/cuttherope-h5dx)
 > and its sister: [yell0wsuit/cuttherope-dx](https://github.com/yell0wsuit/cuttherope-dx)
